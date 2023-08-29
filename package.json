@@ -9,6 +9,9 @@
   "author": "Eleyinmi Ayo",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^12.17.3"
+    "cypress": "^12.17.4"
+  },
+  "dependencies": {
+    "save-dev": "^0.0.1-security"
   }
 }

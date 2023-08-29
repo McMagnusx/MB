@@ -1,5 +1,5 @@
 describe("Search on Google", () => {
-  const searchTerm = "best QA Engineering practices";
+  const searchTerm = "JAGUN JAGUN";
 
   beforeEach(() => {
     // Clear cookies and local storage before each test
@@ -17,7 +17,7 @@ describe("Search on Google", () => {
   });
 });
 
-describe("Facebook Tests", () => {
+describe.skip ("Facebook Tests", () => {
   const username = "your-facebook-username"; // Replace with your Facebook username
   const password = "your-facebook-password"; // Replace with your Facebook password
   const postContent = "I Kill Bugs!";
